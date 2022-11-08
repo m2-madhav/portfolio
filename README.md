@@ -3,11 +3,7 @@
 
 There is no better opportunity to show off our skills than a beautiful portfolio website. It's time to put my knowledge into action by adding my own flavor to my portfolio.
 
-Setup
+Setup and Run
 ---
-Install `serve` package globally using `yarn global add serve` or `npm install -g serve`.
+Install `Live Server` extension in vs code and right click on `index.html` file and click on open with liveserver
 
-
-Run
----
-run `serve` to launch the site.
